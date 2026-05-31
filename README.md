@@ -1,6 +1,9 @@
 # Drag-n-Drop-Scheduler
 
+
 ### A visual calendar of personnel shift schedules utilizing drag-n-drop to make assignments.
+
+![drag-n-drop-scheduler](./drag-n-drop-scheduler.png "Drag-n-Drop Scheduler")
 
 This is a demonstration of a maintainable web app architecture. At the most basic it is a list of Shift Assignments (list data) presented in a calendar format. The Assignments are updated by dragging and dropping objects rather than using traditional form-based inputs. The goal is to illustrate how direct manipulation and selection-based interactions map to mutations in the underlying data model.
 
